@@ -1,3 +1,14 @@
+# Tic-Tac-Toe
+
+This is a simple Tic-tac-toe React application made following the [Intro to React Tutorial](https://reactjs.org/tutorial/tutorial.html).
+The applicaiton is complete as per the tutorial, minus the suggested additions.
+
+### //TODO:
+
+- Setup and install Tailwind
+- Style nicely
+- Extra suggestions from tutorial
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
